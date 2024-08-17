@@ -1,0 +1,16 @@
+export { default as England } from "./England (GB-ENG).svg";
+export { default as France } from "./France (FR).svg";
+export { default as Logo } from "./LogoCTF.svg";
+export { default as SupportUs } from "./SupportUs.svg";
+export { default as PeaceSport } from "./PEACE AND SPORT.svg";
+export { default as RacingFlag } from "./racing flag.svg";
+export { default as Parcour } from "./undraw_in_progress_re_m1l6 1.svg";
+export { default as Working } from "./undraw_working.svg";
+export { default as Stars } from "./to_the_stars_re_wq2x 1.svg";
+export { default as PinkBook } from "./pinkBookInAir.svg";
+export { default as PinkBookLeft } from "./pinkBookInAirLeft.svg";
+export { default as blogAuthor } from "./testi1.svg";
+export { default as blogAuthor2 } from "./testi2.svg";
+export { default as vitrine } from "./vitrine.svg";
+export { default as Banner } from "./Banner.svg";
+export { default as SoonImage } from "./Under construction-amico.svg";
